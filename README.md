@@ -13,10 +13,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaovitor32/bovespa-app
+$ git clone https://github.com/SerraJunior/mobile-base
 
 # Go into the repository
-$ cd bovespa-app
+$ cd mobile-base
 
 # Install dependencies
 $ npm install
